@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ciaone #Modifica Matte
 =======
 
 >>>>>>> B_modification
+=======
+Conclusione #Matte
+>>>>>>> origin/conclusions
 
 This is an extremely interesting text.
 This is the sinergy of AStudent 
