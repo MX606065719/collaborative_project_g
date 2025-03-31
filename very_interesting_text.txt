@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 Ciaone #Modifica Matte
+=======
+
+>>>>>>> B_modification
 
 This is an extremely interesting text.
 This is the sinergy of AStudent 
 and BStudent efforts.
+
+Ciaone #modifica 1 Giuseppe
 
 Meanwhile BStudent calls up AStudent. BStudent 
 tells AStudent they has an improvement for this part of the text, 
